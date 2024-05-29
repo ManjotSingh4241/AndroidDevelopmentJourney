@@ -22,7 +22,7 @@ Installation
 Clone the repository:
 sh
 Copy code
-git clone https://github.com/ManjotSingh4241/unit-converter.git
+git clone [https://github.com/ManjotSingh4241/unit-converter.git](https://github.com/ManjotSingh4241/AndroidDevelopmentJourney/blob/master/Unit%20Converter)
 Open the project in Android Studio:
 Open Android Studio and select Open an existing Android Studio project.
 Navigate to the cloned repository and select the unit-converter folder.
